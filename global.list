@@ -87,7 +87,6 @@ host-keyword, imazing, proxy
 host, www.public.com.tw, proxy
 host-keyword, lpsnmedia, direct
 host-suffix, thenorthface, proxy
-host-keyword, itunes, direct
 host-keyword, icloud, direct
 host-keyword, guo, proxy
 host-keyword, gnews, proxy
