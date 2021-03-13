@@ -36,10 +36,6 @@ DOMAIN,store-images.s-microsoft.com,PROXY
 host-keyword,agoraio,proxy
 host, cdn.jsdelivr.net, proxy
 host-keyword, agora, proxy
-host, itunes, proxy
-host, xp.apple.com, proxy
-host, *.apple.com, proxy
-host, *.itunes.apple.com, proxy
 host, www.playstation.com, proxy
 host, store.steampowered.com, proxy
 host, profile.localytics.com, direct
@@ -77,7 +73,6 @@ host-suffix, gestyy.com, proxy
 host-suffix, corneey.com, proxy
 host-keyword, gtv, proxy
 host-keyword, kwok7, proxy
-host-keyword, apple, direct
 host-suffix, testflight.center, proxy
 host-suffix, c.pub.network, proxy
 host-keyword, g-tvapp, proxy
@@ -94,7 +89,6 @@ host-keyword, lpsnmedia, direct
 host-suffix, thenorthface, proxy
 host-keyword, itunes, direct
 host-keyword, icloud, direct
-host-keyword, apple, direct
 host-keyword, guo, proxy
 host-keyword, gnews, proxy
 host-keyword, ntdtv, proxy
