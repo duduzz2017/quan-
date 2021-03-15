@@ -545,7 +545,8 @@ DOMAIN-SUFFIX,zaobao.com.sg,PROXY
 DOMAIN,international-gfe.download.nvidia.com,PROXY
 DOMAIN,ocsp.apple.com,PROXY
 DOMAIN,store-images.s-microsoft.com,PROXY
-
+DOMAIN-KEYWORD,sc2yun,DIRECT
+DOMAIN-KEYWORD,91mjw,DIRECT
 DOMAIN-KEYWORD,bunediy,DIRECT
 DOMAIN-KEYWORD,youku,DIRECT
 DOMAIN-KEYWORD,kuyun,DIRECT
