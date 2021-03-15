@@ -546,6 +546,9 @@ DOMAIN,international-gfe.download.nvidia.com,PROXY
 DOMAIN,ocsp.apple.com,PROXY
 DOMAIN,store-images.s-microsoft.com,PROXY
 
+DOMAIN-KEYWORD,bunediy,DIRECT
+DOMAIN-KEYWORD,youku,DIRECT
+DOMAIN-KEYWORD,kuyun,DIRECT
 host-keyword,agoraio,proxy
 host, cdn.jsdelivr.net, proxy
 host-keyword, agora, proxy
