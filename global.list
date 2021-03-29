@@ -645,3 +645,24 @@ host, ocsp.int-x3.letsencrypt.org, proxy
 host, www.7meiju.com, direct
 host, www.google.cn, proxy
 host, in.appcenter.ms, proxy
+host-keyword, mhqiyi, direct
+host-keyword, kuaibofang, direct
+host-keyword, cnyuncdn, direct
+host-keyword, tianzuida, direct
+host-keyword, sc2yun, direct
+host-keyword, 91mjw, direct
+host-keyword, tianzuida, direct
+host-keyword, bunediy, direct
+DOMAIN-KEYWORD,youku,DIRECT
+host-keyword,youku,DIRECT
+host-keyword,kuyun,DIRECT
+host-keyword,ifixit,Proxy
+host-keyword,ykimg,DIRECT
+host-keyword,cnblogse,DIRECT
+host-keyword,uuyuu,DIRECT
+host-keyword,91pic,DIRECT
+host-keyword,aqicn,DIRECT
+host-keyword,waqi,DIRECT
+host-keyword,nihaozuida,DIRECT
+host-keyword,dxsdkw,DIRECT 
+host-keyword,kuaibozy,DIRECT
