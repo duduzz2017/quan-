@@ -539,7 +539,6 @@ DOMAIN-SUFFIX,s3.amazonaws.com,PROXY
 DOMAIN-SUFFIX,zaobao.com.sg,PROXY
 DOMAIN,international-gfe.download.nvidia.com,PROXY
 DOMAIN,ocsp.apple.com,PROXY
-DOMAIN,store-images.s-microsoft.com,PROXY
 DOMAIN-KEYWORD,sc2yun,DIRECT
 DOMAIN-KEYWORD,91mjw,DIRECT
 DOMAIN-KEYWORD,bunediy,DIRECT
@@ -579,7 +578,6 @@ host, adguard.com, direct
 host-keyword, hktvyb, direct
 host-suffix, mzstatic.com, proxy
 host-keyword, voovmeeting, direct
-host, mobile.pipe.aria.microsoft.com, proxy
 host, cloud1.linksyssmartwifi.com, direct
 host, connect.linksys.com, direct
 host, eddd6b75.api.splkmobile.com, direct
@@ -636,7 +634,6 @@ host, uop.umeng.com, direct
 host, ocsp.int-x3.letsencrypt.org, proxy
 host, www.7meiju.com, direct
 host, www.google.cn, proxy
-host, in.appcenter.ms, proxy
 host-keyword, mhqiyi, direct
 host-keyword, kuaibofang, direct
 host-keyword, cnyuncdn, direct
@@ -661,3 +658,4 @@ host-keyword,kuaibozy,DIRECT
 host-keyword,live,DIRECT 
 host-keyword,microsoft,DIRECT
 host-keyword,onedrive,DIRECT
+host-keyword,skype,DIRECT
