@@ -569,7 +569,6 @@ host, imprd.g-tvapp.com, proxy
 host, limbopro.xyz, proxy
 host-keyword, nike, direct
 host, zh.ifixit.com, proxy
-host, self.events.data.microsoft.com, proxy
 host, txcontent.iherb.com, direct
 host-keyword, iherb, direct
 host-keyword, atharori, direct
