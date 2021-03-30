@@ -579,7 +579,6 @@ host, adguard.com, direct
 host-keyword, hktvyb, direct
 host-suffix, mzstatic.com, proxy
 host-keyword, voovmeeting, direct
-host, web.vortex.data.microsoft.com, proxy
 host, mobile.pipe.aria.microsoft.com, proxy
 host, cloud1.linksyssmartwifi.com, direct
 host, connect.linksys.com, direct
@@ -623,8 +622,7 @@ host, logx.optimizely.com, direct
 host-keyword, backcountry, direct
 host, p.po.st, direct
 host, api.microsofttranslator.com, direct
-host, www.microsofttranslator.com, direct
-host-keyword, bose, direct
+fhost-keyword, bose, direct
 host-keyword, guo, proxy
 host, www.speedtest.net, direct
 host, server.arcgisonline.com, direct
