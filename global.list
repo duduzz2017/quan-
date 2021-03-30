@@ -631,3 +631,7 @@ host-keyword,microsoft,DIRECT
 host-keyword,onedrive,DIRECT
 host-keyword,skype,DIRECT
 host-keyword,cnblogsc,DIRECT
+host-keyword,office,DIRECT
+host-keyword,office365,DIRECT
+host-keyword,outlook,DIRECT
+
