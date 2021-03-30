@@ -11,11 +11,6 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com,PROXY
 DOMAIN-SUFFIX,ytimg.com,PROXY
 DOMAIN-KEYWORD,google,PROXY
 DOMAIN-KEYWORD,.blogspot.,PROXY
-# > Microsoft
-DOMAIN-SUFFIX,aka.ms,PROXY
-DOMAIN-SUFFIX,onedrive.live.com,PROXY
-DOMAIN,az416426.vo.msecnd.net,PROXY
-DOMAIN,az668014.vo.msecnd.net,PROXY
 # > Facebook
 DOMAIN-SUFFIX,cdninstagram.com,PROXY
 DOMAIN-SUFFIX,facebook.com,PROXY
@@ -666,3 +661,6 @@ host-keyword,waqi,DIRECT
 host-keyword,nihaozuida,DIRECT
 host-keyword,dxsdkw,DIRECT 
 host-keyword,kuaibozy,DIRECT
+host-keyword,live,DIRECT 
+host-keyword,microsoft,DIRECT
+host-keyword,onedrive,DIRECT
