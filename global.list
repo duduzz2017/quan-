@@ -496,7 +496,7 @@ DOMAIN,lookup-api.apple.com,PROXY
 DOMAIN,beta.music.apple.com,PROXY
 # ------
 # > Others
-DOMAIN-SUFFIX,bing.com,PROXY
+
 DOMAIN-SUFFIX,cccat.io,PROXY
 DOMAIN-SUFFIX,dubox.com,PROXY
 DOMAIN-SUFFIX,duboxcdn.com,PROXY
@@ -635,5 +635,5 @@ host-keyword,office,DIRECT
 host-keyword,office365,DIRECT
 host-keyword,outlook,DIRECT
 host-keyword,onenote,DIRECT
-
+host-keyword,bing,DIRECT
 
