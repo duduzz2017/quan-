@@ -545,7 +545,6 @@ host-keyword, iherb, direct
 host-keyword, atharori, direct
 host, wpcdn.bid, proxy
 host, atharori.net, direct
-host, app-measurement.com, proxy
 host, adguard.com, direct
 host-keyword, hktvyb, direct
 host-suffix, mzstatic.com, proxy
