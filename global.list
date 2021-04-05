@@ -635,4 +635,5 @@ host-keyword,office365,DIRECT
 host-keyword,outlook,DIRECT
 host-keyword,onenote,DIRECT
 host-keyword,bing,DIRECT
-
+host-keyword,dxsdkw,DIRECT
+host-keyword,adtidy,DIRECT
