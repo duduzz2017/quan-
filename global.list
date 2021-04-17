@@ -532,7 +532,7 @@ host, triggers.wfxtriggers.com, direct
 host, translate.googleapis.com, proxy
 host, translate.google.cn, direct
 host, oauthaccountmanager.googleapis.com, proxy
-host-keyword, v2ex, proxy
+host-keyword, v2ex, direct
 host, merlinblog.xyz, proxy
 host, 91mjw.com, direct
 host-keyword, pstatp, direct
