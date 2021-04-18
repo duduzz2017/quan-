@@ -513,7 +513,6 @@ host, inapps.appsflyer.com, direct
 host, sb.scorecardresearch.com, direct
 host, triggers.wfxtriggers.com, direct
 host, translate.googleapis.com, proxy
-host, translate.google.cn, direct
 host, oauthaccountmanager.googleapis.com, proxy
 host, merlinblog.xyz, proxy
 host, 91mjw.com, direct
