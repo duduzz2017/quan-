@@ -580,6 +580,8 @@ host-suffix, 6parknews.com, proxy
 host-keyword, dwnews, proxy
 host-suffix, iask.ca, proxy
 host-keyword, youtube, proxy
+host-keyword, zendesk, proxy
+host-keyword, getome, proxy
 host-suffix, amazonaws.com, proxy
 host, cdn.optimizely.com, direct
 host, va.v.liveperson.net, direct
