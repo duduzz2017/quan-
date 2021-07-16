@@ -519,7 +519,7 @@ DOMAIN-KEYWORD,kuyun,DIRECT
 host-keyword,agoraio,proxy
 host-keyword, agora, proxy
 host, itunes, proxy
-host, xp.apple.com, proxy
+host, xp.apple.com, DIRECT
 host, *.apple.com, proxy
 host, *.itunes.apple.com, proxy
 host, www.playstation.com, proxy
