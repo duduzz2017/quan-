@@ -338,7 +338,7 @@ DOMAIN-SUFFIX,softfamous.com,PROXY
 DOMAIN-SUFFIX,spiegel.de,PROXY
 DOMAIN-SUFFIX,ssrcloud.org,PROXY
 DOMAIN-SUFFIX,startpage.com,PROXY
-DOMAIN-SUFFIX,steamcommunity.com,PROXY
+DOMAIN-SUFFIX,steamcommunity.com,DIRECT
 DOMAIN-SUFFIX,steemit.com,PROXY
 DOMAIN-SUFFIX,steemitwallet.com,PROXY
 DOMAIN-SUFFIX,straitstimes.com,PROXY
@@ -523,7 +523,7 @@ host, xp.apple.com, proxy
 host, *.apple.com, proxy
 host, *.itunes.apple.com, proxy
 host, www.playstation.com, proxy
-host, store.steampowered.com, proxy
+host, store.steampowered.com, DIRECT
 host, profile.localytics.com, direct
 host, s.w-x.co, direct
 host, inapps.appsflyer.com, direct
