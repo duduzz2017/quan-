@@ -238,5 +238,6 @@ host-suffix, agora.io, proxy
 ip-cidr, 47.107.39.0/24, proxy
 ip-cidr, 106.14.12.0/24, proxy
 host, inappcheck.itunes.apple.com, direct
+host-keyword,wenshibaowenbei, direct
 geoip,cn,direct
 final,proxy
