@@ -217,6 +217,10 @@ host, app-measurement.com, reject
 host, v4.438vip.com, direct
 host-keyword, mhbobo, direct
 host-keyword, cnyuncdn, direct
+host-keyword, brightcove, direct
+host-keyword, nike, direct   
+host-keyword, boltdns, direct      
+host-keyword, forter, direct
 host, sina.com-h-sina.com, direct
 ip-cidr, 192.168.0.1/24, direct
 host-keyword, kuaibofang, direct
