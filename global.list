@@ -23,7 +23,7 @@ DOMAIN-KEYWORD,kuyun,DIRECT
 host-keyword,agoraio,proxy
 host-keyword, agora, proxy
 host, itunes, proxy
-host, xp.apple.com, DIRECT
+host, xp.apple.com, proxy
 host, www.playstation.com, proxy
 host, store.steampowered.com, DIRECT
 host, profile.localytics.com, direct
