@@ -53,13 +53,10 @@ host, connect.linksys.com, direct
 host, eddd6b75.api.splkmobile.com, direct
 host-suffix, gestyy.com, proxy
 host-suffix, corneey.com, proxy
-host-keyword, gtv, proxy
 host-keyword, kwok7, proxy
 host-keyword, apple, direct
 host-suffix, testflight.center, proxy
 host-suffix, c.pub.network, proxy
-host-keyword, g-tvapp, proxy
-host-suffix, gtv1.org, proxy
 host-keyword, av01, proxy
 host-keyword, lostcloud, proxy
 host-keyword, akamaized, proxy
