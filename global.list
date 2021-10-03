@@ -87,7 +87,6 @@ host, logx.optimizely.com, direct
 host-keyword, backcountry, direct
 host, p.po.st, direct
 host, api.microsofttranslator.com, direct
-host-keyword, guo, proxy
 host, www.speedtest.net, direct
 host, server.arcgisonline.com, direct
 host, aqicn.org, direct
@@ -239,6 +238,8 @@ host-suffix, agora.io, proxy
 ip-cidr, 47.107.39.0/24, proxy
 ip-cidr, 106.14.12.0/24, proxy
 host, inappcheck.itunes.apple.com, direct
-host-keyword,wenshibaowenbei, direct
+host-keyword,nunuyy, direct
+host-keyword,ipfs, direct
+host-keyword,openwebtorrent, direct
 geoip,cn,direct
 final,proxy
