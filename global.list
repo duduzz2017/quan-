@@ -18,7 +18,6 @@ DOMAIN,international-gfe.download.nvidia.com,PROXY
 DOMAIN-KEYWORD,sc2yun,DIRECT
 DOMAIN-KEYWORD,91mjw,DIRECT
 DOMAIN-KEYWORD,bunediy,DIRECT
-DOMAIN-KEYWORD,youku,DIRECT
 DOMAIN-KEYWORD,kuyun,DIRECT
 host-keyword,agoraio,proxy
 host-keyword, agora, proxy
@@ -54,7 +53,6 @@ host, eddd6b75.api.splkmobile.com, direct
 host-suffix, gestyy.com, proxy
 host-suffix, corneey.com, proxy
 host-keyword, kwok7, proxy
-host-keyword, apple, direct
 host-suffix, testflight.center, proxy
 host-suffix, c.pub.network, proxy
 host-keyword, av01, proxy
@@ -66,7 +64,7 @@ host-keyword, 6do, proxy
 host-keyword, imazing, proxy
 host, www.public.com.tw, proxy
 host-keyword, lpsnmedia, direct
-host-suffix, thenorthface, proxy
+host-suffix, thenorthface, direct
 host-keyword, itunes, direct
 host-keyword, icloud, direct
 host-keyword, gnews, proxy
@@ -100,14 +98,9 @@ host, ocsp.int-x3.letsencrypt.org, proxy
 host, www.7meiju.com, direct
 host, www.google.cn, proxy
 host-keyword, mhqiyi, direct
-host-keyword, kuaibofang, direct
-host-keyword, cnyuncdn, direct
-host-keyword, tianzuida, direct
 host-keyword, sc2yun, direct
 host-keyword, 91mjw, direct
-host-keyword, tianzuida, direct
 host-keyword, bunediy, direct
-DOMAIN-KEYWORD,youku,DIRECT
 host-keyword,youku,DIRECT
 host-keyword,kuyun,DIRECT
 host-keyword,ifixit,Proxy
@@ -212,25 +205,20 @@ host, video.kssznuu.cn, direct
 host, app-measurement.com, reject
 host, v4.438vip.com, direct
 host-keyword, mhbobo, direct
-host-keyword, cnyuncdn, direct
 host-keyword, brightcove, direct
 host-keyword, nike, direct   
 host-keyword, boltdns, direct      
-host-keyword, forter, direct
 host, sina.com-h-sina.com, direct
 ip-cidr, 192.168.0.1/24, direct
-host-keyword, kuaibofang, direct
 host, vip.okokbo.com, direct
 host, jxn.dxsdkw.cn, direct
 host-keyword, cnblogsc, direct
 host-keyword, video-yongjiu, direct
-host-keyword, apple, direct
 host, img.5252zy.com, direct
 host, statuse.digitalcertvalidation.com, direct
 host, ty.zpwmh.com, direct
 host, ocsp.sectigo.com, direct
 host, img.kuaibozy.net, direct
-host, r3.o.lencr.org, direct
 host, www.hktvyb.com, direct
 host, www.uuyuuy.com, direct
 host, bilibili.com-l-163.com, direct
@@ -240,6 +228,42 @@ ip-cidr, 106.14.12.0/24, proxy
 host, inappcheck.itunes.apple.com, direct
 host-keyword,nunuyy, direct
 host-keyword,ipfs, direct
+host-keyword,goldwin, direct
+host-keyword,goog, direct
+host-keyword,makip, direct
 host-keyword,openwebtorrent, direct
+host, www.google-analytics.com, reject
+host, ocsp.pki.goog, direct
+host-keyword, wovn, direct
+host-keyword, makip, direct
+host-keyword, goldwin, direct
+host, eastus1-mediap.svc.ms, direct
+host, public.bl.files.1drv.com, direct
+host, union.macoms.la, direct
+host, www.zhaac.com, direct
+host-keyword, akstat, direct
+host-keyword, forter, direct
+host, cf-images.us-east-1.prod.boltdns.net, direct
+host-keyword, shazam, proxy
+host-keyword, gog, direct
+host-keyword, nbyun, direct
+host, cdn.akamai.steamstatic.com, direct
+host, cdn.cloudflare.steamstatic.com, direct
+host, hcaptcha.com, direct
+host, cdn2.unrealengine.com, direct
+host-keyword, epicgames, direct
+host, cdn.branch.io, direct
+host, r3.o.lencr.org, direct
+;user-agent, ?abc*, proxy
+;host, www.google.com, proxy
+;host-keyword, adsite, reject
+;host-suffix, googleapis.com, proxy
+;ip6-cidr, 2001:4860:4860::8888/32, direct
+ip-cidr, 10.0.0.0/8, direct
+ip-cidr, 127.0.0.0/8, direct
+ip-cidr, 172.16.0.0/12, direct
+ip-cidr, 192.168.0.0/16, direct
+ip-cidr, 224.0.0.0/24, direct
 geoip,cn,direct
 final,proxy
+
