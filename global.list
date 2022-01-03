@@ -155,15 +155,15 @@ ip-cidr,127.0.0.0/8,direct
 ip-cidr,172.16.0.0/12,direct
 ip-cidr,192.168.0.0/16,direct
 ip-cidr,224.0.0.0/24,direct
-IP-CIDR,17.0.0.0/8，driect
-IP-CIDR,63.92.224.0/19，driect
-IP-CIDR,65.199.22.0/23，driect
-IP-CIDR,139.178.128.0/18，driect
-IP-CIDR,144.178.0.0/19，driect
-IP-CIDR,144.178.36.0/22，driect
-IP-CIDR,192.35.50.0/24，driect
-IP-CIDR,198.183.17.0/24，driect
-IP-CIDR,205.180.175.0/24，driect
+IP-CIDR,17.0.0.0/8,driect
+IP-CIDR,63.92.224.0/19,driect
+IP-CIDR,65.199.22.0/23,driect
+IP-CIDR,139.178.128.0/18,driect
+IP-CIDR,144.178.0.0/19,driect
+IP-CIDR,144.178.36.0/22,driect
+IP-CIDR,192.35.50.0/24,driect
+IP-CIDR,198.183.17.0/24,driect
+IP-CIDR,205.180.175.0/24,driect
 host, vod3.buycar5.cn, direct
 host, video.tykkk.cn, direct
 host, ts1.lslkkyj.com, direct
