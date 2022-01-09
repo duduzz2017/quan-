@@ -1,369 +1,258 @@
-# > Telegram
-DOMAIN-SUFFIX,t.me,PROXY
-DOMAIN-SUFFIX,tdesktop.com,PROXY
-DOMAIN-SUFFIX,telegram.me,PROXY
-DOMAIN-SUFFIX,telesco.pe,PROXY
-DOMAIN-SUFFIX,cccat.io,PROXY
-DOMAIN-SUFFIX,dubox.com,PROXY
-DOMAIN-SUFFIX,duboxcdn.com,PROXY
-DOMAIN-SUFFIX,ifixit.com,PROXY
-DOMAIN-SUFFIX,mangakakalot.com,PROXY
-DOMAIN-SUFFIX,shopeemobile.com,PROXY
-DOMAIN-SUFFIX,cloudcone.com.cn,PROXY
-DOMAIN-SUFFIX,inkbunny.net,PROXY
-DOMAIN-SUFFIX,metapix.net,PROXY
-DOMAIN-SUFFIX,s3.amazonaws.com,PROXY
-DOMAIN-SUFFIX,zaobao.com.sg,PROXY
-DOMAIN,international-gfe.download.nvidia.com,PROXY
-DOMAIN-KEYWORD,sc2yun,DIRECT
-DOMAIN-KEYWORD,91mjw,DIRECT
-DOMAIN-KEYWORD,bunediy,DIRECT
-DOMAIN-KEYWORD,kuyun,DIRECT
-host-keyword,agoraio,proxy
-host-keyword, agora, proxy
-host, itunes, proxy
-host, xp.apple.com, proxy
-host, www.playstation.com, proxy
-host, store.steampowered.com, DIRECT
-host, profile.localytics.com, direct
-host, s.w-x.co, direct
-host, inapps.appsflyer.com, direct
-host, sb.scorecardresearch.com, direct
-host, triggers.wfxtriggers.com, direct
-host, translate.googleapis.com, proxy
-host, oauthaccountmanager.googleapis.com, proxy
-host, merlinblog.xyz, proxy
-host, 91mjw.com, direct
-host-keyword, pstatp, direct
-host, imprd.g-tvapp.com, proxy
-host, limbopro.xyz, proxy
-host-keyword, nike, direct
-host, zh.ifixit.com, proxy
-host, txcontent.iherb.com, direct
-host-keyword, iherb, direct
-host-keyword, atharori, direct
-host, wpcdn.bid, proxy
-host, atharori.net, direct
-host-keyword, hktvyb, direct
+ip-cidr,224.0.0.0/24,direct
+ip-cidr,192.168.0.0/16,direct
+ip-cidr,172.16.0.0/12,direct
+ip-cidr,127.0.0.0/8,direct
+ip-cidr,10.0.0.0/8,direct
+ip-cidr, 47.107.39.0/24, proxy
+ip-cidr, 192.168.0.1/24, direct
+ip-cidr, 192.168.0.1/24, direct
+ip-cidr, 106.14.12.0/24, proxy
+host-suffix, thenorthface, direct
+host-suffix, testflight.center, proxy
 host-suffix, mzstatic.com, proxy
-host-keyword, voovmeeting, direct
-host, cloud1.linksyssmartwifi.com, direct
-host, connect.linksys.com, direct
-host, eddd6b75.api.splkmobile.com, direct
 host-suffix, gestyy.com, proxy
 host-suffix, corneey.com, proxy
-host-keyword, kwok7, proxy
-host-suffix, testflight.center, proxy
 host-suffix, c.pub.network, proxy
-host-keyword, av01, proxy
-host-keyword, lostcloud, proxy
-host-keyword, akamaized, proxy
-host, www.mydirtyhobby.com, proxy
-host-keyword, clips4sale, proxy
-host-keyword, 6do, proxy
-host-keyword, imazing, proxy
-host, www.public.com.tw, proxy
-host-keyword, lpsnmedia, direct
-host-suffix, thenorthface, direct
-host-keyword, itunes, direct
-host-keyword, icloud, direct
-host-keyword, gnews, proxy
-host-keyword, ntdtv, proxy
-host-keyword, 6parkbbs, proxy
-host-keyword, epochtimes, proxy
-host-suffix, 6parknews.com, proxy
-host-keyword, dwnews, proxy
-host-suffix, iask.ca, proxy
-host-keyword, youtube, proxy
-host-keyword, zendesk, proxy
-host-keyword, getome, proxy
-host-suffix, amazonaws.com, proxy
-host, cdn.optimizely.com, direct
-host, va.v.liveperson.net, direct
-host, recs.richrelevance.com, direct
-host, logx.optimizely.com, direct
-host-keyword, backcountry, direct
-host, p.po.st, direct
-host, api.microsofttranslator.com, direct
-host, www.speedtest.net, direct
-host, server.arcgisonline.com, direct
-host, aqicn.org, direct
-host-keyword, openstreetmap, proxy
-host, api.waqi.info, direct
-host, app.adjust.com, direct
-host, gate.hockeyapp.net, direct
-host, ztoread.ziroom.com, direct
-host, uop.umeng.com, direct
-host, ocsp.int-x3.letsencrypt.org, proxy
-host, www.7meiju.com, direct
-host, www.google.cn, proxy
-host-keyword, mhqiyi, direct
-host-keyword, sc2yun, direct
-host-keyword, 91mjw, direct
-host-keyword, bunediy, direct
 host-keyword,youku,DIRECT
-host-keyword,kuyun,DIRECT
-host-keyword,ifixit,Proxy
 host-keyword,ykimg,DIRECT
-host-keyword,cnblogse,DIRECT
-host-keyword,uuyuu,DIRECT
-host-keyword,91pic,DIRECT
-host-keyword,aqicn,DIRECT
 host-keyword,waqi,DIRECT
-host-keyword,nihaozuida,DIRECT
-host-keyword,dxsdkw,DIRECT 
-host-keyword,kuaibozy,DIRECT
-host-keyword,live,DIRECT 
-host-keyword,microsoft,DIRECT
-host-keyword,onedrive,DIRECT
-host-keyword,skype,DIRECT
-host-keyword,cnblogsc,DIRECT
-host-keyword,office,DIRECT
-host-keyword,office365,DIRECT
-host-keyword,outlook,DIRECT
-host-keyword,onenote,DIRECT
-host-keyword,bing,DIRECT
-host-keyword,dxsdkw,DIRECT
-host-keyword,adtidy,DIRECT
-host-keyword,save0758,DIRECT
-host-keyword,mgtv,DIRECT
-host-keyword,tvyb10,DIRECT
+host-keyword,uuyuu,DIRECT
 host-keyword,tvyb02,DIRECT
-USER-AGENT,MicroMessenger%20Client,DIRECT
-USER-AGENT,WeChat*,DIRECT
-USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*,DIRECT
-DOMAIN-SUFFIX,gtimg.com,DIRECT
-DOMAIN-SUFFIX,idqqimg.com,DIRECT
-DOMAIN-SUFFIX,igamecj.com,DIRECT
-DOMAIN-SUFFIX,myapp.com,DIRECT
-DOMAIN-SUFFIX,myqcloud.com,DIRECT
-DOMAIN-SUFFIX,qq.com,DIRECT
-DOMAIN-SUFFIX,qqmail.com,DIRECT
-DOMAIN-SUFFIX,servicewechat.com,DIRECT
-DOMAIN-SUFFIX,tencent.com,DIRECT
-DOMAIN-SUFFIX,tencent-cloud.net,DIRECT
-DOMAIN-SUFFIX,tenpay.com,DIRECT
-DOMAIN-SUFFIX,wechat.com,DIRECT
-DOMAIN,file-igamecj.akamaized.net,DIRECT
+host-keyword,skype,DIRECT
+host-keyword,save0758,DIRECT
+host-keyword,outlook,DIRECT
+host-keyword,openwebtorrent, direct
+host-keyword,onenote,DIRECT
+host-keyword,onedrive,DIRECT
+host-keyword,office365,DIRECT
+host-keyword,office,DIRECT
+host-keyword,nunuyy, direct
+host-keyword,nihaozuida,DIRECT
+host-keyword,microsoft,DIRECT
+host-keyword,mgtv,DIRECT
+host-keyword,makip, direct
+host-keyword,live,DIRECT 
+host-keyword,kuyun,DIRECT
+host-keyword,kuaibozy,DIRECT
+host-keyword,ipfs, direct
+host-keyword,ifixit,Proxy
+host-keyword,goldwin, direct
+host-keyword,dxsdkw,DIRECT 
+host-keyword,cnblogsc,DIRECT
+host-keyword,bing,DIRECT
+host-keyword,aqicn,DIRECT
+host-keyword,adtidy,DIRECT
+host-keyword, zhenbuka, direct
+host-keyword, youtube, proxy
+host-keyword, wovn, direct
+host-keyword, voovmeeting, direct
+host-keyword, video-yongjiu, direct
+host-keyword, unrealengine, direct
+host-keyword, ubi, direct
+host-keyword, tvyb02, direct
+host-keyword, szjal, direct
+host-keyword, shazam, proxy
+host-keyword, sc2yun, direct
+host-keyword, pstatp, direct
+host-keyword, openstreetmap, proxy
+host-keyword, nike, direct
+host-keyword, monidai, direct
+host-keyword, momovod, direct
+host-keyword, mhqiyi, direct
+host-keyword, mhbobo, direct
+host-keyword, makip, direct
+host-keyword, lpsnmedia, direct
+host-keyword, kuaibofang, direct
+host-keyword, jingpin88, direct
+host-keyword, itunes, direct
+host-keyword, iqiyi, direct
+host-keyword, ipfs, direct
+host-keyword, imazing, proxy
+host-keyword, iherb, direct
+host-keyword, icloud, direct
+host-keyword, hktvyb, direct
+host-keyword, goldwin, direct
+host-keyword, gog, direct
+host-keyword, forter, direct
+host-keyword, epicgames, direct
+host-keyword, epic, direct
+host-keyword, cnyuncdn, direct
+host-keyword, cnblogsc, direct
+host-keyword, chinalincoln, direct
+host-keyword, bzjupinhang, direct
+host-keyword, buycar5, direct
+host-keyword, bunediy, direct
+host-keyword, brightcove, direct
+host-keyword, boltdns, direct      
+host-keyword, backcountry, direct
+host-keyword, av01, proxy
+host-keyword, atharori, direct
+host-keyword, apple, direct
+host-keyword, 52swat, direct
 host,www.xe.com,direct
 host,p46-imap.mail.me.com,direct
-ip-cidr,49.51.0.0/24,direct
-host-keyword,hotmail,direct
-ip-cidr,203.205.0.0/24,direct
-ip-cidr,10.0.0.0/8,direct
-ip-cidr,127.0.0.0/8,direct
-ip-cidr,172.16.0.0/12,direct
-ip-cidr,192.168.0.0/16,direct
-ip-cidr,224.0.0.0/24,direct
-host, vod3.buycar5.cn, direct
-host, video.tykkk.cn, direct
-host, ts1.lslkkyj.com, direct
-host, v6.438vip.com, direct
-host-keyword, monidai, direct
-host-keyword, szjal, direct
-host, union.macvideojs.com, direct
-host, video.buycar5.cn, direct
-host-keyword, tvyb02, direct
-host, wuji.zhulong-zuida.com, direct
-host, titan.mgtv.com.janan.net, direct
-host, jx.m3u8.tv, direct
-host, union.maccms.com, direct
-host, j.languang.wfss100.com, direct
-host, ipan.klxq.icu, direct
-host, iyuanfang-my.sharepoint.com, direct
-host, www.qianyicp.com, direct
-host, video.twimg.com, proxy
-host-keyword, tvyb10, direct
 host, zy.kakazy-yun.com, direct
-host, cdn.languang.xhfhttc.cn, direct
-host, ts5.hhmm0.com, direct
-host, ts3.xarxrljt.com, direct
-host, apps.identrust.com, direct
-host, b.mhkuaibo.com, direct
-host, www.taiyingshi.vip, direct
-host, ts6.hhmm0.com, direct
-host, v5.szjal.cn, direct
-host, cacerts.digitalcertvalidation.com, direct
-host, www.mgtv.com.byteamone.cn, direct
-host, yun.yueyu33.com, direct
-host-keyword, jingpin88, direct
-host-keyword, iqiyi, direct
-host, mhyunbo.com, direct
-host-keyword, momovod, direct
-host-keyword, 52swat, direct
-host, www.chifenghualvlvxingshe.com, direct
-host, d.mahua-kb.com, direct
-host, v4.monidai.com, direct
-host, ts1.yuyuangewh.com, direct
-host, vod2.zhiding0603.com, direct
-host-keyword, chinalincoln, direct
-host, www.92424.cn, reject
-host, register.nbkbgd.cn, reject
-host, chkkk.top, direct
-host, in.appcenter.ms, direct
-host, video.kssznuu.cn, direct
-host, app-measurement.com, reject
-host, v4.438vip.com, direct
-host-keyword, mhbobo, direct
-host-keyword, brightcove, direct
-host-keyword, nike, direct   
-host-keyword, boltdns, direct      
-host, sina.com-h-sina.com, direct
-ip-cidr, 192.168.0.1/24, direct
-host, vip.okokbo.com, direct
-host, jxn.dxsdkw.cn, direct
-host-keyword, cnblogsc, direct
-host-keyword, video-yongjiu, direct
-host, img.5252zy.com, direct
-host, statuse.digitalcertvalidation.com, direct
-host, ty.zpwmh.com, direct
-host, ocsp.sectigo.com, direct
-host, img.kuaibozy.net, direct
-host, www.hktvyb.com, direct
-host, www.uuyuuy.com, direct
-host, bilibili.com-l-163.com, direct
-host-suffix, agora.io, proxy
-ip-cidr, 47.107.39.0/24, proxy
-ip-cidr, 106.14.12.0/24, proxy
-host, inappcheck.itunes.apple.com, direct
-host-keyword,nunuyy, direct
-host-keyword,ipfs, direct
-host-keyword,goldwin, direct
-host-keyword,makip, direct
-host-keyword,openwebtorrent, direct
-host, www.google-analytics.com, reject
-host, ocsp.pki.goog, direct
-host-keyword, wovn, direct
-host-keyword, makip, direct
-host-keyword, goldwin, direct
-host, eastus1-mediap.svc.ms, direct
-host, public.bl.files.1drv.com, direct
-host, union.macoms.la, direct
-host, www.zhaac.com, direct
-host-keyword, akstat, direct
-host-keyword, forter, direct
-host, cf-images.us-east-1.prod.boltdns.net, direct
-host-keyword, shazam, proxy
-host-keyword, gog, direct
-host-keyword, nbyun, direct
-host, cdn.akamai.steamstatic.com, direct
-host, cdn.cloudflare.steamstatic.com, direct
-host, hcaptcha.com, direct
-host, cdn2.unrealengine.com, direct
-host-keyword, epicgames, direct
-host, cdn.branch.io, direct
-host, r3.o.lencr.org, direct
-;user-agent, ?abc*, proxy
-;host, www.google.com, proxy
-;host-keyword, adsite, reject
-;host-suffix, googleapis.com, proxy
-host, facetime.apple.com, proxy
-host, duckduckgo.com, proxy
-host, new.iskcd.com, direct
-host, sub.geilicloud.com, proxy
-host, ghqvkw.bl.files.1drv.com, direct
-host-keyword, bzjupinhang, direct
-host, b.baobuzz.com, direct
-host-keyword, zhenbuka, direct
-host, eu2.cdn.thunderhead.com, direct
-host, unpkg.com, direct
-host-keyword, ubi, direct
-host, www.zhaac.com, direct
-host, geilicloud.com, proxy
 host, zy.aoxtv.com, direct
-host, ts2.lslkkyj.com, direct
-host, tracker.novage.com.ua, direct
-host-keyword, ipfs, direct
-host, video.oneloveipfs.com, direct
-host, ipfs.tubby.cloud, direct
-host, tracker.openwebtorrent.com, direct
-host, p.vod123.xyz, direct
-host, img.weituku.cc, direct
-host-keyword, buycar5, direct
-host, hcaptcha.com, direct
-host-keyword, unrealengine, direct
-host-keyword, epic, direct
-host, client.relay.crisp.chat, direct
-host-keyword, nbyun, proxy
-host, vod3.buycar5.cn, direct
-host, video.tykkk.cn, direct
-host, ts1.lslkkyj.com, direct
-host, v6.438vip.com, direct
-host-keyword, monidai, direct
-host-keyword, szjal, direct
-host, union.macvideojs.com, direct
-host, video.buycar5.cn, direct
-host-keyword, tvyb02, direct
-host, wuji.zhulong-zuida.com, direct
-host, titan.mgtv.com.janan.net, direct
-host, jx.m3u8.tv, direct
-host, union.maccms.com, direct
-host, j.languang.wfss100.com, direct
-host, ipan.klxq.icu, direct
-host, iyuanfang-my.sharepoint.com, direct
+host, ztoread.ziroom.com, direct
+host, zh.ifixit.com, proxy
+host, yun.yueyu33.com, direct
+host, xp.apple.com, proxy
+host, www.uuyuuy.com, direct
+host, www.taiyingshi.vip, direct
+host, www.speedtest.net, direct
 host, www.qianyicp.com, direct
+host, www.public.com.tw, proxy
+host, www.playstation.com, proxy
+host, www.mgtv.com.byteamone.cn, direct
+host, www.google-analytics.com, reject
+host, www.chifenghualvlvxingshe.com, direct
+host, www.92424.cn, reject
+host, wuji.zhulong-zuida.com, direct
+host, wpcdn.bid, proxy
+host, vod3.buycar5.cn, direct
+host, vod2.zhiding0603.com, direct
+host, vip.okokbo.com, direct
+host, video.tykkk.cn, direct
 host, video.twimg.com, proxy
-host-keyword, tvyb10, direct
-host, zy.kakazy-yun.com, direct
-host, cdn.languang.xhfhttc.cn, direct
+host, video.oneloveipfs.com, direct
+host, video.kssznuu.cn, direct
+host, video.buycar5.cn, direct
+host, v6.438vip.com, direct
+host, v5.szjal.cn, direct
+host, v4.monidai.com, direct
+host, v4.438vip.com, direct
+host, uop.umeng.com, direct
+host, unpkg.com, direct
+host, union.macvideojs.com, direct
+host, union.maccms.com, direct
+host, ty.zpwmh.com, direct
+host, txcontent.iherb.com, direct
 host, ts5.hhmm0.com, direct
 host, ts3.xarxrljt.com, direct
-host, apps.identrust.com, direct
-host, b.mhkuaibo.com, direct
-host, www.taiyingshi.vip, direct
-host, ts6.hhmm0.com, direct
-host, v5.szjal.cn, direct
-host, cacerts.digitalcertvalidation.com, direct
-host, www.mgtv.com.byteamone.cn, direct
-host, yun.yueyu33.com, direct
-host-keyword, jingpin88, direct
-host-keyword, iqiyi, direct
-host, mhyunbo.com, direct
-host-keyword, momovod, direct
-host-keyword, 52swat, direct
-host, www.chifenghualvlvxingshe.com, direct
-host, d.mahua-kb.com, direct
-host, v4.monidai.com, direct
+host, ts2.lslkkyj.com, direct
 host, ts1.yuyuangewh.com, direct
-host, vod2.zhiding0603.com, direct
-host-keyword, chinalincoln, direct
-host, www.92424.cn, reject
-host, register.nbkbgd.cn, reject
-host, chkkk.top, direct
-host, in.appcenter.ms, direct
-host, video.kssznuu.cn, direct
-host, app-measurement.com, reject
-host, v4.438vip.com, direct
-host-keyword, mhbobo, direct
-host-keyword, cnyuncdn, direct
-host, sina.com-h-sina.com, direct
-ip-cidr, 192.168.0.1/24, direct
-host-keyword, kuaibofang, direct
-host, vip.okokbo.com, direct
-host, jxn.dxsdkw.cn, direct
-host-keyword, cnblogsc, direct
-host-keyword, video-yongjiu, direct
-host-keyword, apple, direct
-host-keyword, icloud, direct
-host, img.5252zy.com, direct
+host, ts1.lslkkyj.com, direct
+host, translate.googleapis.com, proxy
+host, tracker.openwebtorrent.com, direct
+host, tracker.novage.com.ua, direct
+host, titan.mgtv.com.janan.net, direct
+host, sub.geilicloud.com, proxy
+host, store.steampowered.com, DIRECT
 host, statuse.digitalcertvalidation.com, direct
-host, ty.zpwmh.com, direct
-host, ocsp.sectigo.com, direct
-host, img.kuaibozy.net, direct
+host, server.arcgisonline.com, direct
+host, sb.scorecardresearch.com, direct
+host, register.nbkbgd.cn, reject
 host, r3.o.lencr.org, reject
-host, www.hktvyb.com, direct
-host, www.uuyuuy.com, direct
-host, bilibili.com-l-163.com, direct
-host-suffix, agora.io, proxy
-ip-cidr, 47.107.39.0/24, proxy
-ip-cidr, 106.14.12.0/24, proxy
+host, public.bl.files.1drv.com, direct
+host, profile.localytics.com, direct
+host, p.vod123.xyz, direct
+host, p.po.st, direct
+host, ocsp.sectigo.com, direct
+host, ocsp.pki.goog, direct
+host, oauthaccountmanager.googleapis.com, proxy
+host, new.iskcd.com, direct
+host, mhyunbo.com, direct
+host, merlinblog.xyz, proxy
+host, limbopro.xyz, proxy
+host, jxn.dxsdkw.cn, direct
+host, jx.m3u8.tv, direct
+host, j.languang.wfss100.com, direct
+host, iyuanfang-my.sharepoint.com, direct
+host, ipfs.tubby.cloud, direct
+host, ipan.klxq.icu, direct
+host, inapps.appsflyer.com, direct
 host, inappcheck.itunes.apple.com, direct
-;ip6-cidr, 2001:4860:4860::8888/32, direct
-ip-cidr, 10.0.0.0/8, direct
-ip-cidr, 127.0.0.0/8, direct
-ip-cidr, 172.16.0.0/12, direct
-ip-cidr, 192.168.0.0/16, direct
-ip-cidr, 224.0.0.0/24, direct
+host, in.appcenter.ms, direct
+host, hcaptcha.com, direct
+host, ghqvkw.bl.files.1drv.com, direct
+host, geilicloud.com, proxy
+host, gate.hockeyapp.net, direct
+host, facetime.apple.com, proxy
+host, eu2.cdn.thunderhead.com, direct
+host, eddd6b75.api.splkmobile.com, direct
+host, eastus1-mediap.svc.ms, direct
+host, duckduckgo.com, proxy
+host, d.mahua-kb.com, direct
+host, client.relay.crisp.chat, direct
+host, chkkk.top, direct
+host, cf-images.us-east-1.prod.boltdns.net, direct
+host, cdn2.unrealengine.com, direct
+host, cdn.languang.xhfhttc.cn, direct
+host, cdn.cloudflare.steamstatic.com, direct
+host, cdn.branch.io, direct
+host, cacerts.digitalcertvalidation.com, direct
+host, bilibili.com-l-163.com, direct
+host, b.mhkuaibo.com, direct
+host, b.baobuzz.com, direct
+host, atharori.net, direct
+host, aqicn.org, direct
+host, apps.identrust.com, direct
+host, app-measurement.com, reject
+host, app.adjust.com, direct
+host, api.waqi.info, direct
+host, api.microsofttranslator.com, direct
 geoip,cn,direct
 final,proxy
+DOMAIN-SUFFIX,myqcloud.com,DIRECT
+DOMAIN-SUFFIX,myapp.com,DIRECT
+DOMAIN-SUFFIX,igamecj.com,DIRECT
+DOMAIN-SUFFIX,idqqimg.com,DIRECT
+DOMAIN-SUFFIX,gtimg.com,DIRECT
+DOMAIN-KEYWORD,sc2yun,DIRECT
+DOMAIN-KEYWORD,kuyun,DIRECT
+DOMAIN-KEYWORD,bunediy,DIRECT
+DOMAIN-KEYWORD,91mjw,DIRECT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
