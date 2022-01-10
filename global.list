@@ -1,12 +1,3 @@
-ip-cidr,224.0.0.0/24,direct
-ip-cidr,192.168.0.0/16,direct
-ip-cidr,172.16.0.0/12,direct
-ip-cidr,127.0.0.0/8,direct
-ip-cidr,10.0.0.0/8,direct
-ip-cidr, 47.107.39.0/24, proxy
-ip-cidr, 192.168.0.1/24, direct
-ip-cidr, 192.168.0.1/24, direct
-ip-cidr, 106.14.12.0/24, proxy
 host-suffix, thenorthface, direct
 host-suffix, testflight.center, proxy
 host-suffix, mzstatic.com, proxy
@@ -202,57 +193,3 @@ DOMAIN-KEYWORD,sc2yun,DIRECT
 DOMAIN-KEYWORD,kuyun,DIRECT
 DOMAIN-KEYWORD,bunediy,DIRECT
 DOMAIN-KEYWORD,91mjw,DIRECT
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
