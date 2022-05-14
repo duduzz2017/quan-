@@ -27,7 +27,7 @@ host-keyword,office365,DIRECT
 host-keyword,office,DIRECT
 host-keyword,nunuyy, direct
 host-keyword,nihaozuida,DIRECT
-host-keyword,microsoft,DIRECT
+host-keyword,microsoft,proxy
 host-keyword,mgtv,DIRECT
 host-keyword,makip, direct
 host-keyword,live,DIRECT 
