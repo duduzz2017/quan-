@@ -31,7 +31,7 @@ host-keyword,youtube,proxy
 host-keyword,wovn,direct
 host-keyword,voovmeeting,direct
 host-keyword,video-yongjiu,direct
-host-keyword,unrealengine,direct
+host-keyword,unrealengine,proxy
 host-keyword,ubi,direct
 host-keyword,tvyb02,direct
 host-keyword,szjal,direct
@@ -168,7 +168,6 @@ host,api.waqi.info,direct
 host,api.microsofttranslator.com,direct
 geoip,cn,direct
 final,proxy
-DOMAIN-SUFFIX,myqcloud.com,DIRECT
 DOMAIN-SUFFIX,myapp.com,DIRECT
 DOMAIN-SUFFIX,igamecj.com,DIRECT
 DOMAIN-SUFFIX,idqqimg.com,DIRECT
