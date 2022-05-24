@@ -186,7 +186,6 @@ host-keyword,adidas,direct
 host,api.waqi.info,proxy
 host,ssplive.pw,proxy
 host,onedrive.live.com,proxy
-host,metrics.icloud.com,proxy
 ip-cidr,17.242.0.0/24,direct
 host,foxicloud.com,proxy
 host-keyword,courier.push.,direct
