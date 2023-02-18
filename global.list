@@ -37,4 +37,16 @@ host, ghqvkw.bl.files.1drv.com, proxy
 host, in.appcenter.ms, proxy
 host, imap.gmail.com, proxy
 host, filters.adtidy.org, proxy
-
+host, p46-imap.mail.me.com, direct
+host, vip.lzcdn2.com, direct
+host, news.yahoo.com, proxy
+host, api.waqi.info, proxy
+host-keyword, aqicn, proxy
+host, gdmf.apple.com, direct
+host, www.rfa.org, proxy
+host, cdn.branch.io, proxy
+host, eastus1-mediap.svc.ms, proxy
+host, ghqvkw.bl.files.1drv.com, proxy
+host, in.appcenter.ms, proxy
+host, imap.gmail.com, proxy
+host, filters.adtidy.org, proxy
