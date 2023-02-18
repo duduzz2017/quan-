@@ -1,13 +1,4 @@
-ip-cidr,224.0.0.0/24,direct
-ip-cidr,192.168.0.0/16,direct
-ip-cidr,172.16.0.0/12,direct
-ip-cidr,127.0.0.0/8,direct
-ip-cidr,10.0.0.0/8,direct
-ip-cidr,47.107.39.0/24,proxy
-ip-cidr,192.168.0.1/24,direct
-ip-cidr,106.14.12.0/24,proxy
 host-keyword,openwebtorrent,direct
-host-keyword,onenote,DIRECT
 host-keyword,ifixit,Proxy
 host-keyword,aqicn,DIRECT
 host-keyword,youtube,proxy
@@ -18,5 +9,4 @@ host,www.speedtest.net,direct
 host,www.playstation.com,proxy
 geoip,cn,direct
 final,proxy
-ip-cidr,17.242.0.0/24,direct
 
