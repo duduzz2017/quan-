@@ -9,4 +9,32 @@ host,www.speedtest.net,direct
 host,www.playstation.com,proxy
 geoip,cn,direct
 final,proxy
+host-keyword, icloud, direct
+host, live-v13wgnv6.rmbl.ws, proxy
+host, vip.lz-cdn3.com, direct
+host, nnyy.in, direct
+host, vip.lzcdn2.com, direct
+host, ukzy.ukubf4.com, direct
+host, www.olevod.com, direct
+host, vod1.kczybf.com, direct
+host, tracker.btorrent.xyz, direct
+host-keyword, taopianplay, direct
+host, p2p.baobuzz.com, direct
+host-keyword, baidu, direct
+host, m3api.gghktv.com, direct
+host, www.tvyb03.com, direct
+host, autodiscover.gmail.com, proxy
+host-keyword, thenorthface, direct
+host-keyword, apple, direct
+host, news.yahoo.com, proxy
+host, api.waqi.info, proxy
+host-keyword, aqicn, proxy
+host, gdmf.apple.com, direct
+host, www.rfa.org, proxy
+host, cdn.branch.io, proxy
+host, eastus1-mediap.svc.ms, proxy
+host, ghqvkw.bl.files.1drv.com, proxy
+host, in.appcenter.ms, proxy
+host, imap.gmail.com, proxy
+host, filters.adtidy.org, proxy
 
