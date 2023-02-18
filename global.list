@@ -50,3 +50,4 @@ host, ghqvkw.bl.files.1drv.com, proxy
 host, in.appcenter.ms, proxy
 host, imap.gmail.com, proxy
 host, filters.adtidy.org, proxy
+host-keyword, hotmail, direct
