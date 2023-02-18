@@ -26,7 +26,6 @@ host-keyword,youtube,proxy
 host-keyword,shazam,proxy
 host-keyword,pstatp,direct
 host,zh.ifixit.com,proxy
-host,xp.apple.com,proxy
 host,www.speedtest.net,direct
 host,www.public.com.tw,proxy
 host,www.playstation.com,proxy
