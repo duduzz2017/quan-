@@ -32,9 +32,6 @@ host-keyword, aqicn, proxy
 host, gdmf.apple.com, direct
 host, www.rfa.org, proxy
 host, cdn.branch.io, proxy
-host, eastus1-mediap.svc.ms, proxy
-host, ghqvkw.bl.files.1drv.com, proxy
-host, in.appcenter.ms, proxy
 host, imap.gmail.com, proxy
 host, filters.adtidy.org, proxy
 host, p46-imap.mail.me.com, direct
@@ -51,3 +48,8 @@ host, in.appcenter.ms, proxy
 host, imap.gmail.com, proxy
 host, filters.adtidy.org, proxy
 host-keyword, hotmail, direct
+host, skyapi.live.net, direct
+host-keyword, 1drv, direct
+host-suffix, live.com, direct
+host-keyword, onedrive, direct
+host-keyword, microsoft, direct
