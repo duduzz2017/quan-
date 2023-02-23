@@ -43,7 +43,6 @@ host, gdmf.apple.com, direct
 host, www.rfa.org, proxy
 host, cdn.branch.io, proxy
 host, imap.gmail.com, proxy
-host-keyword, hotmail, direct
 host, skyapi.live.net, direct
 host-keyword, 1drv, direct
 host-suffix, live.com, direct
