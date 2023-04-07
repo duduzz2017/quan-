@@ -49,3 +49,9 @@ host-suffix, live.com, direct
 host-keyword, onedrive, direct
 host-keyword, microsoft, direct
 host, m.hotmail.com, direct
+host, songbird.cardinalcommerce.com, direct
+host, js-agent.newrelic.com, direct
+host, bam.nr-data.net, direct
+host-keyword, unrealengine, direct
+host-keyword, epicgames, direct
+host-keyword, bing, proxy
