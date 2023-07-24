@@ -1,16 +1,16 @@
 host-keyword,openwebtorrent,direct
-host-keyword,ifixit,proxy1
+host-keyword,ifixit,proxy
 host-keyword,aqicn,DIRECT
-host-keyword,youtube,proxy1
-host-keyword,shazam,proxy1
+host-keyword,youtube,proxy
+host-keyword,shazam,proxy
 host-keyword,pstatp,direct
-host,zh.ifixit.com,proxy1
+host,zh.ifixit.com,proxy
 host,www.speedtest.net,direct
-host,www.playstation.com,proxy1
+host,www.playstation.com,proxy
 geoip,cn,direct
-final,proxy1
+final,proxy
 host-keyword, icloud, direct
-host, live-v13wgnv6.rmbl.ws, proxy1
+host, live-v13wgnv6.rmbl.ws, proxy
 host, vip.lz-cdn3.com, direct
 host, nnyy.in, direct
 host, vip.lzcdn2.com, direct
@@ -23,26 +23,26 @@ host, p2p.baobuzz.com, direct
 host-keyword, baidu, direct
 host, m3api.gghktv.com, direct
 host, www.tvyb03.com, direct
-host, autodiscover.gmail.com, proxy1
+host, autodiscover.gmail.com, proxy
 host-keyword, thenorthface, direct
 host-keyword, apple, direct
-host, news.yahoo.com, proxy1
-host, api.waqi.info, proxy1
-host-keyword, aqicn, proxy1
+host, news.yahoo.com, proxy
+host, api.waqi.info, proxy
+host-keyword, aqicn, proxy
 host, gdmf.apple.com, direct
-host, www.rfa.org, proxy1
-host, cdn.branch.io, proxy1
-host, imap.gmail.com, proxy1
-host, filters.adtidy.org, proxy1
+host, www.rfa.org, proxy
+host, cdn.branch.io, proxy
+host, imap.gmail.com, proxy
+host, filters.adtidy.org, proxy
 host, p46-imap.mail.me.com, direct
 host, vip.lzcdn2.com, direct
-host, news.yahoo.com, proxy1
-host, api.waqi.info, proxy1
-host-keyword, aqicn, proxy1
+host, news.yahoo.com, proxy
+host, api.waqi.info, proxy
+host-keyword, aqicn, proxy
 host, gdmf.apple.com, direct
-host, www.rfa.org, proxy1
-host, cdn.branch.io, proxy1
-host, imap.gmail.com, proxy1
+host, www.rfa.org, proxy
+host, cdn.branch.io, proxy
+host, imap.gmail.com, proxy
 host, skyapi.live.net, direct
 host-keyword, 1drv, direct
 host-suffix, live.com, direct
@@ -52,6 +52,10 @@ host, m.hotmail.com, direct
 host, songbird.cardinalcommerce.com, direct
 host, js-agent.newrelic.com, direct
 host, bam.nr-data.net, direct
+host-keyword, unrealengine, direct
+host-keyword, epicgames, direct
+host-keyword, bing, proxy
+
 host-keyword, unrealengine, direct
 host-keyword, epicgames, direct
 host-keyword, bing, proxy1
